@@ -49,5 +49,4 @@ def process_log_file(log_file_name, n, output_file_nme):
 # Example usage
 if __name__ == "__main__":
     process_log_file('C:/Users/HP/Make-Up Quiz/IP Adresses Analyzer/sample_01_easy.log', 3, 'sample_01_easy_result_n3.txt')
-    process_log_file('C:/Users/HP/Make-Up Quiz/IP Adresses Analyzer/sample_01_easy.log', 4, 'sample_01_easy_result_n4.txt')
-    process_log_file('C:/Users/HP/Make-Up Quiz/IP Adresses Analyzer/sample_01_easy.log', 6, 'sample_01_easy_result_n6.txt')
+
